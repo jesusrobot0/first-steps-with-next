@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a small project to test some of the features of Next.js 13+ at a high level, and so far, it looks great!"
+This is a small project to test some of the features of Next.js 13+ at a high level, and so far, it looks great!.
 
 ## How to Run
 
