@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   description: "Created by Next with love",
 };
 
+// Esto es un HOC: High Order Component
 export default function RootLayout({
   children,
 }: {
